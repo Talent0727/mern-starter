@@ -26,7 +26,6 @@ We're on our way towards V3, which will bring a few updates to MERN! We are trac
 - V3.0.0 -> CLI/devtools optimization (docker, etc.)
 
 ## Quickstart
-
 ```sh
   npm install -g mern-cli
   mern init your_new_app
